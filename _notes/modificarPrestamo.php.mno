@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prestamo" value="name:id_prestamo;datatype:int,name:tipo_prestamo;datatype:string,name:tipo_material;datatype:string,name:cota;datatype:int,name:autor;datatype:string,name:dependencia;datatype:string,name:usuario;datatype:string,name:fecha_prestamo;datatype:date,name:fecha_entrega;datatype:date,name:fecha_devolucion;datatype:date,name:responsable;datatype:string,name:titulo;datatype:string" />
+</info>

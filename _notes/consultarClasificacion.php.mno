@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_inv" value="name:id_clasificacion;datatype:int,name:tipo;datatype:int,name:titulo;datatype:int,name:volumen;datatype:int,name:fecha;datatype:date" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usu1" value="name:count(*);datatype:int" />
+	<infoitem key="UD_usu2" value="name:count(*);datatype:int" />
+	<infoitem key="UD_usu3" value="name:count(*);datatype:int" />
+	<infoitem key="UD_usu" value="name:fecha;datatype:date" />
+</info>

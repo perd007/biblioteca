@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_inventario" value="name:id_inventario;datatype:int,name:clasificacion;datatype:int,name:tipo;datatype:string,name:exiTitulo;datatype:int,name:perdTitulo;datatype:int,name:exiVolumen;datatype:int,name:perdVolume;datatype:int,name:biog;datatype:string,name:fecha;datatype:date,name:genero;datatype:string" />
+</info>

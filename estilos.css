@@ -1,0 +1,18 @@
+@charset "utf-8";
+.blancas {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+}
+.bordes {
+	border: medium ridge #990033;
+	text-align: left;
+	font-size: 18px;
+}
+.centrar {
+	text-align: center;
+}
+.negrita {
+	font-weight: bold;
+	text-align: right;
+}
